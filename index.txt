@@ -1,0 +1,2 @@
+Evan K. Hoffman
+<p>That's me. Hi. I'm a programmer, and this is my personal website. I'll be using it to store my various <a href="projects.php">projects</a>, as well as recording my process, challenges and solutions, and tutorials on my <a href="blog.php">blog</a>. You can find out more about me on the <a href="about.php">about me</a> page, or take a look at my <a href="resume.php">resume</a>.

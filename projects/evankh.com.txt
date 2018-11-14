@@ -1,0 +1,7 @@
+EvanKH.com
+This site.
+projects.php?project=evankh.com
+Website Design
+PHP, HTML, CSS
+<p>This is my own personal website, which you are browsing now. I created it with my own personal <a href="blog.php?date=2018-01-30&title=my-web-design-philosophy">design recommendations</a> in mind, and to suit my own personal tastes (which explains the eccentric color scheme). I used modern, up-to-date HTML5/CSS3 and designed it with both mobile and desktop browsers in mind.
+<p>The source code is available as a ZIP here: <a href="projects/evankh.com.zip">evankh.com.zip</a> or on <a href="https://github.com/evankh/evankh.com">Github<a>.

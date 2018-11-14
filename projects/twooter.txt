@@ -1,0 +1,8 @@
+Twooter
+A knockoff social network.
+projects.php?project=twooter
+Website Design, Database Management, Full Stack
+PHP, HTML, CSS, MySQL
+<p>Twooter began as a class project to create a Twitter clone. I designed the backend according to the principles of proper database design, then built a PHP & HTML5/CSS3 frontend. This was my first experience using PHP, so it's a little rough around the edges; for a better example of my PHP skill, check out <a href="projects.php?project=evankh.com">EvanKH.com</a>.
+<p>The source code and assets are available as a ZIP here: <a href="projects/twooter.zip">twooter.zip</a> or on <a href="https://github.com/evankh/twooter">Github</a>.
+<p>You can see it in action at <a href="http://twooter.evankh.com">twooter.evankh.com</a>. <h2>Warning:</h2>There is no security! It's a sandbox, not a real social network, so feel free to play around, but don't expect anything to stick around.

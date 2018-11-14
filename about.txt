@@ -1,0 +1,3 @@
+<img src="images/headshot.jpg" alt="My ugly mug">
+<p>My name is Evan K. Hoffman and I'm currently a junior at <a href="https://champlain.edu">Champlain College</a> in Burlington, Vermont. With a major in Computer Science & Innovation and minors in Mathematics and Game Programming, I have a diverse set of skills and experience solving a wide variety of technical challenges. I have a particular passion for low-level programming, and I find the limitations and constraints inspire creative solutions.
+<p>Outside of technology, I also enjoy cooking, traveling, studying history, space exploration, and <a href="https://ingress.com">saving the world from aliens</a>. I sometimes dabble in 3D art and animation.

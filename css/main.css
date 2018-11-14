@@ -1,0 +1,178 @@
+:root {
+	--white: #f8f8f8;
+	--orange: #f88008;
+	--black: #080808;
+	--blue: #2040e0;
+	--light-orange: #ffa020;
+	--dark-orange: #e06000;
+	--very-light-orange: #ffe0c0;
+	--light-blue: #60a0f8;
+	--very-light-blue: #80c0f8;
+	--light-grey: #b8c0c8;
+}
+
+@font-face {
+	font-family: segoe_ui;
+	src: url(../fonts/seguibl.ttf);
+}
+
+html {
+	background: var(--orange);
+	background: linear-gradient(to right, var(--orange) 19.99%, var(--white) 20%, var(--white) 99%, var(--orange) 99.01%);
+	padding: 0px;
+}
+
+body {
+	margin: 0px;
+	min-height: 100%;
+	font-family: Arial;
+}
+
+header {
+	background-color: var(--black);
+	color: var(--white);
+	margin: 0px;
+	padding: 1%;
+	position: sticky;
+	top: -160px;
+	display: flex;
+}
+
+#logo {
+	height: 50%;
+	min-width: 100px;
+}
+
+#logo img {
+	width: 100%;
+	//transform: rotate3D(1, -1, 0.25, 50deg);
+}
+
+#body {
+	display: flex;
+}
+
+nav {
+	position: fixed;
+	color: var(--white);
+	top: 25%;
+	left: 1%;
+	float: left;
+}
+
+nav a {
+	color: var(--very-light-orange);
+}
+
+nav a:hover {
+	color: var(--white);
+}
+
+nav a:visited {
+	color: var(--light-orange);
+}
+
+main {
+	background-color: var(--white);
+	width: 85%;
+	margin-left: 20%;
+	margin-right: 1%;
+	margin-bottom: 5%;
+	padding: 1%;
+}
+
+a {
+	color: var(--orange);
+	text-decoration: none;
+}
+
+a:hover {
+	color: var(--light-orange);
+}
+
+a:visited {
+	color: var(--dark-orange);
+}
+
+h1 {
+	font: 900 400% segoe_ui;
+	margin-top: 8%;
+	margin-bottom: 7%;
+}
+
+h2 {
+	font: 900 100% segoe_ui;
+}
+
+#content {
+	margin-top: 1%;
+	margin-bottom: 96px;
+}
+
+.code {
+	background-color: var(--very-light-orange);
+	padding: 1%;
+	border: 1px solid var(--light-orange);
+	font: 300 100% Consolas;
+}
+
+.project {
+	width: 85%;
+	padding: 1%;
+	border: 1px solid var(--light-grey);
+}
+
+.project:hover {
+	background: linear-gradient(to bottom, #ffffff, var(--white));
+}
+
+footer {
+	margin: 0px;
+	padding: 0px;
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+}
+
+#footer-graphic {
+	display: flex;
+	height: 32px;
+}
+
+#footer-graphic-left {
+	background: var(--blue);
+	background: linear-gradient(to bottom right, transparent 50%, var(--blue) 51%);
+	width: 50%;
+}
+
+#footer-graphic-right {
+	background: var(--blue);
+	background: linear-gradient(to bottom left, transparent 50%, var(--blue) 51%);
+	width: 50%;
+}
+
+#footer-content {
+	background-color: var(--blue);
+	color: var(--white);
+	display: flex;
+	padding: 1%;
+	font: 900 100% segoe_ui;
+}
+
+#contact {
+	position: absolute;
+	right: 1%;
+}
+
+footer a {
+	color: var(--light-blue);
+}
+
+footer a:hover {
+	color: var(--very-light-blue);
+}
+
+footer a:visited {
+	color: var(--light-grey);
+}

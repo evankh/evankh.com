@@ -1,0 +1,18 @@
+Building This Very Website
+Evan Hoffman
+2018-01-25
+<p>I started building this very website on January 25th, 2018, during my Intro to Emerging Languages class. Lorem Ipsem dolor sit amet consectitur The quick brown fox jumps over the lazy silver dog. Twas brillig, and the slithy toves did gyre and gimble in the wabe; all mimsy were the borogroves, and the mome raths outgrabe. I met a traveler from an antique land, who said,\ "Two vast and trunkless legs of stone\ Stand in the desert. Near them, on the sand,\ Half-sunk, a shattered visage lies, whose frown\ And wrinkled lip, and sneer of cold command\ Tell that its sculptor well those passions read\ Which yet survive, stamped on these lifeless things,\ The hand that mocked them and the heart that fed.\
+<p>And on the pedestal these words appear,\
+<p>"Ozymandias is my name, King of Kings,\ Look on my works, ye mighty, and despair!\ Nothing beside remains. Round the decay\ Of that colossal wreck, bundless and bare,\ The lone and level sands stretch far away."
+<pre class="code">
+To Moscow I came seeking fortune,
+But they're making me work till I'm dead.
+The bourgeoisie have it so easy.
+The Czar's putting gold on his bread!
+The people of Moscow are hungry,
+But think what a feast there could be
+If we could create
+A socialist state
+That cared for the people like me!
+</pre>
+<p>(4) However, as he grew in stature and the years led him to the time when childhood passes into youth he became more chary of his words and quieter in his tone: at times, indeed, he was so shy that he would blush in the presence of his elders, and there was little sign left of the old forwardness, the impulsiveness of the puppy who will jump up on every one, master and stranger alike. Thus he grew more sedate, but his company was still most fascinating, and little wonder: for whenever it came to a trial of skill between himself and his comrades he would never challenge his mates to those feats in which he himself excelled: he would start precisely one where he felt his own inferiority, averring that he would outdo them all,—indeed, he would spring to horse in order to shoot or hurl the javelin before he had got a firm seat—and then, when he was worsted, he would be the first to laugh at his own discomfiture. (5) He had no desire to escape defeat by giving up the effort, but took glory in the resolution to do better another time, and thus he soon found himself as good a horseman as his peers, and presently, such was his ardour, he surpassed them all, and at last the thinning of the game in the king's preserves began to show what he could do. What with the chasing and the shooting and the spearing, the stock of animals ran so low that Astyages was hard put to it to collect enough for him. Then Cyrus, seeing that his grandfather for all his goodwill could never furnish him with enough, came to him one day and said, "Grandfather, why should you take so much trouble in finding game for me? If only you would let me go out to hunt with my uncle, I could fancy every beast we came across had been reared for my particular delight!" (6) But however anxious the lad might be to go out to the chase, he had somehow lost the old childish art of winning what he wanted by coaxing: and he hesitated a long time before approaching the king again. If in the old days he had quarrelled with Sacas for not letting him in, now he began to play the part of Sacas against himself, and could not summon courage to intrude until he thought the right moment had come: indeed, he implored the real Sacas to let him know when he might venture. So that the old butler's heart was won, and he, like the rest of the world, was completely in love with the young prince. 

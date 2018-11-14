@@ -1,0 +1,7 @@
+Space Shooter
+A simple game.
+projects.php?project=space-game
+Game Design, Graphics
+C++, GLSL
+<p>This relatively simple game lets you fly through space shooting enemies. It is written in C++ using OpenGL & GLSL 4.5. I made it to test my skills with OpenGL and to create my own lightweight engine for 3D games, using modern graphics techniques and following all best practices for game architecture. All the assets, including 3D models and sound effects, were created by me.
+<p>The source code and assets are available as a zip here: <a href="projects/space-game.zip">space-game.zip</a> or on <a href="https://github.com/evankh/space-game">Github</a>.
